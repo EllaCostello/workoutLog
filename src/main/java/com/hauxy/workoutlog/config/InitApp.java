@@ -1,4 +1,4 @@
-package com.hauxy.workoutlog.initApp;
+package com.hauxy.workoutlog.config;
 
 import com.hauxy.workoutlog.Workout.WorkoutLog;
 import com.hauxy.workoutlog.Workout.WorkoutLogRepository;
